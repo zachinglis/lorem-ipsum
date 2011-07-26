@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/lorem-ipsum.rb",
+    "lorem-ipsum.gemspec",
     "test/helper.rb",
     "test/test_lorem-ipsum.rb"
   ]
@@ -30,7 +31,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.0}
-  s.summary = %q{The official Rubygem for the Lorem-Ipsum.me API}
+  s.summary = %q{The}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
