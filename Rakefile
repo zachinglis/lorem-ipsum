@@ -10,8 +10,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "lorem-ipsum"
   gem.homepage = "http://github.com/zachinglis/lorem-ipsum"
   gem.license = "MIT"
-  gem.summary = %Q{The}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{The official gem of the Lorem-Ipsum API}
+  gem.description = %Q{The official gem of the Lorem-Ipsum API}
   gem.email = "zach@londonmade.co.uk"
   gem.authors = ["Zach Inglis"]
   # dependencies defined in Gemfile
