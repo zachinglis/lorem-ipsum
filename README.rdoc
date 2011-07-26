@@ -1,9 +1,19 @@
-= lorem-ipsum
+= Lorem Ipsum
 
-Description goes here.
+Quickly and easy access the Lorem-Ipsum.me API.
+
+== Example
+
+LoremIpsum.generate # Defaults to text, plain, essay.
+
+Optional Arguments
+
+  :language => XML, JSON or text
+  :format => Plain or HTML
+  :type => Essay or Blog
 
 == Contributing to lorem-ipsum
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
 * Fork the project
