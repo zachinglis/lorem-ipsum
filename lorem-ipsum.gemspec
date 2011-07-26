@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Zach Inglis"]
   s.date = %q{2011-07-26}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{The official gem of the Lorem-Ipsum API}
   s.email = %q{zach@londonmade.co.uk}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.0}
-  s.summary = %q{The}
+  s.summary = %q{The official gem of the Lorem-Ipsum API}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
