@@ -7,7 +7,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "lorem-ipsum"
+  gem.name = "lorem-ipsum-me"
   gem.homepage = "http://github.com/zachinglis/lorem-ipsum"
   gem.license = "MIT"
   gem.summary = %Q{The official gem of the Lorem-Ipsum API}
