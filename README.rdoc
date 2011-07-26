@@ -2,6 +2,8 @@
 
 Quickly and easy access the Lorem-Ipsum.me API.
 
+NOTE: This gem is called "lorem-ipsum-me" as "lorem-ipsum" was taken.
+
 == Example
 
 LoremIpsum.generate # Defaults to text, plain, essay.
@@ -11,6 +13,10 @@ Optional Arguments
   :language => XML, JSON or text
   :format => Plain or HTML
   :type => Essay or Blog
+
+== Installation
+
+Install with `gem install lorem-ipsum-me`
 
 == Contributing to lorem-ipsum
 
